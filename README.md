@@ -6,17 +6,11 @@ VIDHYANIKETHAN HIGH SCHOOL in 2017 . And diploma in CHIRALA ENGINEEING
 COLLEGE CHIRALA  in the stream of mechanical engineering complete in 
 2020 . After i did my graduation in 2023 . ST.ANN'S COLLEGE OF 
 ENGINEERING AND TECHNOLOGY in the stream of mechanical engineering then 
-my CGPA was 6.87. 
-I have a beautiful family of 4 members  . My father is a painter and 
-mother is a tailor . I have a one younger brother. They are always 
-motivated and supported to me in every time. 
+my CGPA was 6.87.  
 Now i have interested in software developer  but  i have to learn a some 
-developing skills they are python core and python advanced . Some web 
-technologies are learn for basic they are  html and css . 
-This time my habbits are watching movies and playing carrom and cricket . 
-And finally my short term goal is to get a job for reputed company like 
-yours . Where i can prove my skills and improve my knowledge .Long term 
-goal is to be respectable position for where i work. 
+developing Programming language skills they are python core and python advanced , java , c , javascript . Some web 
+technologies are learn for basic they are  html and css , bootstrap . 
+
 <br>
 
 🔭 I’m currently working on Linked in clone<br><br>🌱 I’m currently learning cloud services & Backend developing skills<br><br>💬 Ask me about Python , Html , Css , Javascript , Bootstrap , django , microsoft excel , microsoft word & power point<br><br>📫 How to reach me venkatapavanvangara318@gmail.com<br><br>⚡ Fun fact i love capturing memories .... 📷
