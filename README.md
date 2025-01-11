@@ -1,12 +1,9 @@
 # 💫 About Me:
 
-I am vangara venkata pavan . I born and raised in Chirala , 
-Thotavaripalem ,i did my schooling in Thotavaripalem SRI SAI 
-VIDHYANIKETHAN HIGH SCHOOL in 2017 . And diploma in CHIRALA ENGINEEING 
-COLLEGE CHIRALA  in the stream of mechanical engineering complete in 
-2020 . After i did my graduation in 2023 . ST.ANN'S COLLEGE OF 
+ HI ,
+I am vangara venkata pavan .I did my graduation in 2023 . ST.ANN'S COLLEGE OF 
 ENGINEERING AND TECHNOLOGY in the stream of mechanical engineering.
-Now i have interested in software developer  but  i have to learn a some 
+Now i have interest in software developer  but  i have to learn a some 
 developing Programming language skills they are python core and python advanced , java , c , javascript . Some web 
 technologies are learn for basic they are  html and css , bootstrap . 
 
